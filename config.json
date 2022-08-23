@@ -1,1 +1,22 @@
-{"app_id": "", "app_secret": "", "template_id": "", "user": ["", ""], "province": "", "city": "", "birthday1": "", "birthday2": "", "birthday3": "1997-01-03", "love_date": "", "Whether_Eng": "", "Whether_caihongpi": false, "Whether_lizhi": false, "Whether_tip": false, "Whether_health": false, "Whether_lucky": false, "tianxing_API": "", "astro": ""}
+{
+    "app_id": "wx347840c37303cd49",
+    "app_secret": "b79de631c51ed3660e539c8c920a68af",
+    "template_id": "0-lGFncfYuPyE97_kDOxk128CnhxIaxhO9tleuTOWE4",
+    "user": [
+        "oZ9u76dJXRoAZWIou_Jhk7Czb9HE"
+    ],
+    "province": "北京",
+    "city": "北京",
+    "birthday1": "1997-01-03",
+    "birthday2": "1997-01-03",
+    "birthday3": "1997-01-03",
+    "love_date": "999",
+    "Whether_Eng": "",
+    "Whether_caihongpi": true,
+    "Whether_lizhi": true,
+    "Whether_tip": true,
+    "Whether_health": true,
+    "Whether_lucky": true,
+    "tianxing_API": "8397a069c63560c833ea3e81e74a2515",
+    "astro": ""
+}
